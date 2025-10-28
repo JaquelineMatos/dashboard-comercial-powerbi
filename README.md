@@ -78,5 +78,11 @@ Distribuição percentual das vendas por categoria:
 3. Se necessário, atualize o caminho da base `train.csv` em **Transformar Dados > Origem**.
 
 ---
+## 🧩 Layout do Dashboard
+![Dashboard Comercial](https://github.com/JaquelineMatos/dashboard-comercial-powerbi/blob/main/imagens/dashboard_comercial.png)
 
+---
 
+## 👩‍💻 Autora
+**Jaqueline Alves de Matos**  
+💼 Analista de Dados | 📍 Santa Bárbara d’Oeste/SP  
